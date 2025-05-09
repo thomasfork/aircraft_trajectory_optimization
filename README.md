@@ -1,14 +1,16 @@
 # aircraft_trajectory_optimization
-Python scripts for high fidelity raceline trajectory optimization of aircraft.
-
-This repository is currently a placeholder, and source code will be added to accompany the final manuscript (currently under review). Currently it houses several example videos of trajectories presented in the same manuscript.
-
-You may find a preprint publication here: https://arxiv.org/abs/2309.07262
+Python scripts for high fidelity raceline trajectory optimization of aircraft based on direct orthogonal collocation and Euclidean or Non-Euclidean representations of vehicle pose.
 
 ## Citing
 
-You are welcome to cite the preprint version of our paper, however in all likelihood it will be updated along with the final version of the manuscript. At that time we will update this repository, including a reference to the final version.
-
+```
+@article{fork2023euclidean,
+  title={Euclidean and non-euclidean trajectory optimization approaches for quadrotor racing},
+  author={Fork, Thomas and Borrelli, Francesco},
+  journal={arXiv preprint arXiv:2309.07262},
+  year={2023}
+}
+```
 
 # Example Videos
 
